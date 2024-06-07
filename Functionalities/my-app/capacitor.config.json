@@ -1,0 +1,10 @@
+{
+  "appId": "com.ionic.app",
+  "appName": "ionic-boiler-plate",
+  "webDir": "dist",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  }
+}
